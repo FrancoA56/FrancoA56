@@ -19,7 +19,7 @@
 
 <h3 align="left">- 📫 Contactame!</h3> 
 <p align="left">
-<h4>Correo:</h4> <h5>franco.adamoli@gmail.com</h5>
+<h4>Correo: franco.adamoli@gmail.com</h4>
   <div>
 <a href="https://linkedin.com/in/franco adamoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco adamoli" height="30" width="40" /></a>
 </p>
