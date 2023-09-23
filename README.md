@@ -3,7 +3,8 @@
 <h3 align="center" color="white">!Bienvenido a mi GitHub!</h3> 
 
 <h3 align="left">¿Quién soy?</h3>
-<h4 align="left" color="white">Desarrollador Web Full Stack. Siempre fui un apasionado por las tecnologías y por suerte gracias a Henry tuve la oportunidad de estudiar y conocer este mundo que tanto me facina.</h4>
+<h4 align="left" color="white">Desarrollador Web Full Stack. </h4>
+  <h4 align="left" color="white">Siempre fui un apasionado por las tecnologías y por suerte gracias a Henry tuve la oportunidad de estudiar y conocer este mundo que tanto me facina.</h4>
 
 <h3 align="left">¿Qué hago?</h3>
 <h4 align="left" color="white">Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código</h4>
