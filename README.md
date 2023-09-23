@@ -1,12 +1,20 @@
 <h1 align="center">Hola 👋, soy Franco Adamoli</h1>
-<h3 align="center">!Bienvenido a mi GitHub! Soy desarrollador Web Full Stack. Siempre fui un apasionado por las tecnologías y por suerte gracias a Henry tuve la oportunidad de estudiar y conocer este mundo que tanto me facina.</h3>
+
+<h3 align="center">!Bienvenido a mi GitHub! </h3> 
+
+<h3 align="left">Soy desarrollador Web Full Stack. Siempre fui un apasionado por las tecnologías y por suerte gracias a Henry tuve la oportunidad de estudiar y conocer este mundo que tanto me facina.</h3>
+
+<h4 align="left">Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código</h4>
+
+<h3 align="left">¿A dónde me dirijo?</h3>
+Mi objetivo principal es consumir conocimiento, siendo tan basto el mundo IT, teniendo tantas formas de solucionar un mismo problema, siempre estoy intentando descubrir esas formas y adaptarlas a mi estilo de trabajo.
 
 - 🌱 Actualmente estoy aprendiendo **Vue**
 
-- 📫 Contactame! **franco.adamoli@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">- 📫 Contactame!</h3> 
 <p align="left">
+**franco.adamoli@gmail.com**
 <a href="https://linkedin.com/in/franco adamoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco adamoli" height="30" width="40" /></a>
 </p>
 
