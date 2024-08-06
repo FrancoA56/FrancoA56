@@ -7,7 +7,7 @@
   <h4 align="left" color="white">Siempre fui un apasionado por las tecnologías y por suerte gracias a Henry tuve la oportunidad de estudiar y conocer este mundo que tanto me facina.</h4>
 
 <h3 align="left">¿Qué hago?</h3>
-<h4 align="left" color="white">Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código</h4>
+<h4 align="left" color="white">Actualmente me dedico a realizar proyectos para un grupo de empresas y darle mantenimiento a otros proyectos anteriores a mi gestión, que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código</h4>
 
 <h3 align="left">¿A dónde me dirijo?</h3>
 <h4 color="white">Mi objetivo principal es el constante aprendizaje, siendo tan basto el mundo IT, teniendo tantas formas de solucionar un mismo problema, siempre estoy intentando descubrir esas formas y adaptarlas a mi estilo de trabajo.</h4>
